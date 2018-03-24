@@ -64,7 +64,7 @@ boolean game_won; // == true als de player heeft gewonnen
 boolean game_lost; // == true als de computer heeft gewonnen
 int boats_placed_by_comp = 0; // hoeveelheid boten de computer heeft geplaatst
 boolean bomHor = true; // de rotatie van de bom (standaard horizontaal)
-int bom = 2; // welke bom er actief is (standaard 1*1 bom)
+int bom = 0; // welke bom er actief is (standaard 1*1 bom)
 int punten = 0;
 // **variabelen**
 
